@@ -1,0 +1,66 @@
+WARNING:root:aviso
+ERROR:root:erro
+CRITICAL:root:critico
+WARNING:root:aviso
+ERROR:root:erro
+CRITICAL:root:critico
+WARNING:root:aviso
+ERROR:root:erro
+CRITICAL:root:critico
+WARNING:root:aviso
+ERROR:root:erro
+CRITICAL:root:critico
+2024-08-22 13:45:57,518 - DEBUG - depura��o
+2024-08-22 13:45:57,518 - INFO - informa��o
+2024-08-22 13:45:57,518 - WARNING - aviso
+2024-08-22 13:45:57,518 - ERROR - erro
+2024-08-22 13:45:57,519 - CRITICAL - critico
+2024-08-22 13:46:02,559 - DEBUG - depura��o
+2024-08-22 13:46:02,559 - INFO - informa��o
+2024-08-22 13:46:02,559 - WARNING - aviso
+2024-08-22 13:46:02,559 - ERROR - erro
+2024-08-22 13:46:02,559 - CRITICAL - critico
+2024-08-22 13:46:56,293 - DEBUG - depuração
+2024-08-22 13:46:56,293 - INFO - informação
+2024-08-22 13:46:56,294 - WARNING - aviso
+2024-08-22 13:46:56,294 - ERROR - erro
+2024-08-22 13:46:56,295 - CRITICAL - critico
+2024-08-22 13:46:58,262 - DEBUG - depuração
+2024-08-22 13:46:58,262 - INFO - informação
+2024-08-22 13:46:58,263 - WARNING - aviso
+2024-08-22 13:46:58,263 - ERROR - erro
+2024-08-22 13:46:58,263 - CRITICAL - critico
+2024-08-22 13:48:35,140 - DEBUG - depuração
+2024-08-22 13:48:35,140 - INFO - informação
+2024-08-22 13:48:35,141 - WARNING - aviso
+2024-08-22 13:48:35,141 - ERROR - erro
+2024-08-22 13:48:35,141 - CRITICAL - critico
+2024-08-22 13:48:39,799 - DEBUG - depuração
+2024-08-22 13:48:39,800 - INFO - informação
+2024-08-22 13:48:39,800 - WARNING - aviso
+2024-08-22 13:48:39,800 - ERROR - erro
+2024-08-22 13:48:39,801 - CRITICAL - critico
+2024-08-22 13:49:41,896 - DEBUG - depuração
+2024-08-22 13:49:41,896 - INFO - informação
+2024-08-22 13:49:41,896 - WARNING - aviso
+2024-08-22 13:49:41,896 - ERROR - erro
+2024-08-22 13:49:41,903 - CRITICAL - critico
+2024-08-22 13:50:16,044 - DEBUG - depuração
+2024-08-22 13:50:16,044 - INFO - informação
+2024-08-22 13:50:16,045 - WARNING - aviso
+2024-08-22 13:50:16,045 - ERROR - erro
+2024-08-22 13:50:16,045 - CRITICAL - critico
+2024-08-22 13:53:05,549 - INFO - O programa foi iniciado
+2024-08-22 13:53:05,550 - DEBUG - Iteração número 0
+2024-08-22 13:53:07,795 - DEBUG - O usuário digitou o primeiro número: 10
+2024-08-22 13:53:09,558 - DEBUG - O usuário digitou o segundo número: 20
+2024-08-22 13:53:09,558 - DEBUG - O resultado da operação: 0.5
+2024-08-22 13:53:09,559 - DEBUG - Iteração número 1
+2024-08-22 13:53:18,495 - DEBUG - O usuário digitou o primeiro número: 20
+2024-08-22 13:53:19,053 - DEBUG - O usuário digitou o segundo número: 0
+2024-08-22 13:53:19,054 - WARNING - O usuário tentou fazer uma divisão por 0
+2024-08-22 13:53:19,054 - DEBUG - Iteração número 2
+2024-08-22 13:53:23,331 - DEBUG - O usuário digitou o primeiro número: 50
+2024-08-22 13:53:24,069 - DEBUG - O usuário digitou o segundo número: 10
+2024-08-22 13:53:24,069 - DEBUG - O resultado da operação: 5.0
+2024-08-22 13:53:24,070 - INFO - O programa foi finalizado
